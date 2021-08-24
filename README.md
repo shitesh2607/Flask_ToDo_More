@@ -1,5 +1,5 @@
 # Flask App: ToDo More
-ToDo More is a One Dimensional Thinking Based Task managament website with All `CRUD Operation`. That helps you in Time Productivity and organize all your work, life.
+ToDo More is a One Dimensional Thinking Based Task managament website with all `CRUD Operation`. That helps you in Time Productivity and organize all your work, life.
 ## How to Run
 -Step 1: Make sure you have Python
 
